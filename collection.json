@@ -1,0 +1,128 @@
+{
+    "uuid": "ZXAQMG0S-76FH-WVY3-U4N8-2EY2HTB961D9",
+    "name": "Fakemons",
+    "author": "omagerio",
+    "version": 1,
+    "stickers": [
+        {
+            "id": 1,
+            "name": "Eledude",
+            "image": "images/1.png",
+            "rarity": 1
+        },
+        {
+            "id": 2,
+            "name": "Rockdude",
+            "image": "images/2.png",
+            "rarity": 1
+        },
+        {
+            "id": 3,
+            "name": "Grassdude",
+            "image": "images/3.png",
+            "rarity": 1
+        },
+        {
+            "id": 4,
+            "name": "Beetlefish",
+            "image": "images/4.png",
+            "rarity": 1
+        },
+        {
+            "id": 5,
+            "name": "Spidrock",
+            "image": "images/5.png",
+            "rarity": 1
+        },
+        {
+            "id": 6,
+            "name": "Swordler",
+            "image": "images/6.png",
+            "rarity": 2
+        },
+        {
+            "id": 7,
+            "name": "Shyeye",
+            "image": "images/7.png",
+            "rarity": 2
+        },
+        {
+            "id": 8,
+            "name": "Ostrik",
+            "image": "images/8.png",
+            "rarity": 2
+        },
+        {
+            "id": 9,
+            "name": "Smokeler",
+            "image": "images/9.png",
+            "rarity": 3
+        },
+        {
+            "id": 10,
+            "name": "Tidefall",
+            "image": "images/10.png",
+            "rarity": 3
+        },
+        {
+            "id": 11,
+            "name": "Rabbiwing",
+            "image": "images/11.png",
+            "rarity": 4
+        },
+        {
+            "id": 12,
+            "name": "Steelworm",
+            "image": "images/12.png",
+            "rarity": 4
+        },
+        {
+            "id": 13,
+            "name": "Recow",
+            "image": "images/13.png",
+            "rarity": 4
+        },
+        {
+            "id": 14,
+            "name": "Warpler",
+            "image": "images/14.png",
+            "rarity": 4
+        },
+        {
+            "id": 15,
+            "name": "Smilecry",
+            "image": "images/15.png",
+            "rarity": 5
+        },
+        {
+            "id": 16,
+            "name": "Metalkanga",
+            "image": "images/16.png",
+            "rarity": 5
+        },
+        {
+            "id": 17,
+            "name": "Darkwhisper",
+            "image": "images/17.png",
+            "rarity": 5
+        },
+        {
+            "id": 18,
+            "name": "Flyeep",
+            "image": "images/18.png",
+            "rarity": 6
+        },
+        {
+            "id": 19,
+            "name": "Neila",
+            "image": "images/19.png",
+            "rarity": 6
+        },
+        {
+            "id": 20,
+            "name": "Doomhole",
+            "image": "images/20.png",
+            "rarity": 7
+        }
+    ]
+}
